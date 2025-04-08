@@ -1,1 +1,1 @@
-Series of Jupyter notebooks created by me as part of a statistics project focusing on Wavelet correlation and partial correlation methods.
+Series of Jupyter notebooks created by me as part of a statistics project focusing on Wavelet correlation and partial correlation methods. These are being actively updated. In the future, this repository will hopefully include code for ad-hoc Python functions and methods written by me for various analyses as part of the project.
